@@ -1,0 +1,17 @@
+{
+  "name": "coderslab-workshop-2.0",
+  "version": "1.0.0",
+  "description": "Workshop 2 after SASS & RWD module",
+
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Tomasz Czapski",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.11.0",
+    "parcel": "^2.11.0"
+  }
+}
