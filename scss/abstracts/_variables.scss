@@ -1,1 +1,25 @@
-;
+:root {
+  /*Fonts*/
+  $ff-main-font: "Open Sans", sans-serif;
+  $ff-title-font: "Raleway", sans-serif;
+  $fw-light: 300;
+  $fw-regular: 400;
+  $fw-bold: 700;
+  $fw-extra-bold: 800;
+  $fz-regular: 1rem;
+
+  /*Colors*/
+  $color-primary: #08a6e4;
+  $color-primary-shadow: rgba(7, 172, 230, 0.16);
+  $color-redish: #fb3b64;
+  $color-green: #55dfb4;
+  $color-black: #000000;
+  $color-grey: #a5a5a5;
+  $color-medium-grey: #e8e9ed;
+  $color-light-grey: #f7f7f7;
+  $color-white: #ffffff;
+
+  /*Others*/
+  $desktop-page-width: 1352px;
+}
+
